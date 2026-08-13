@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local vector database
+lancedb_travelbot/
+
+# Generated travel-book files
+temp_pages_4_to_7.pdf
+cleaned_World_Travel_Book.pdf
+world_travel_book.csv
+
+# Local source book
+World_Travel_Book.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
