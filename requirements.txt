@@ -21,3 +21,5 @@ langchain
 dateparser
 fuzzywuzzy
 PyPDF2
+Pillow
+matplotlib
